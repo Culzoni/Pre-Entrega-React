@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Zapatillas Running",
+        "descripcion": "Zapatillas para correr",
+        "precio": 85000,
+        "imagen": "/vite.svg"
+    },
+    {
+        "id": 2,
+        "nombre": "Remera Deportiva",
+        "precio": 25000,
+        "descripcion": "Remera de tela transpirable para mantenerte fresco durante el entrenamiento",
+        "imagen": "/vite.svg"
+    },
+    {
+        "id": 3,
+        "nombre": "Pantalon Deportivo",
+        "precio": 40000,
+        "descripcion":"Pantalon comodo con bolsillos con cierre y ajuste elastico en la cintura",
+        "imagen": "/vite.svg"
+    },
+]
